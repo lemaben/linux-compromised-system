@@ -1,9 +1,0 @@
-{
-  "title": "Orion Logistics Incident Lab",
-  "description": "A three-part beginner Linux learning path: investigation, recovery and hardening, then Bash automation.",
-  "items": [
-    { "path": "scenario1-investigation" },
-    { "path": "scenario2-recovery-hardening" },
-    { "path": "scenario3-bash-automation" }
-  ]
-}
