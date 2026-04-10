@@ -1,0 +1,44 @@
+{
+  "title": "Linux Compromised System Lab",
+  "description": "Investigate a noisy, compromised Linux host and secure it.",
+  "difficulty": "intermediate",
+  "backend": {
+    "imageid": "ubuntu"
+  },
+  "details": {
+    "intro": {
+      "text": "intro.md",
+      "foreground": "foreground.sh",
+      "background": "background.sh"
+    },
+    "steps": [
+      {
+        "text": "step1.md"
+      },
+      {
+        "text": "step2.md"
+      },
+      {
+        "text": "step3.md"
+      },
+      {
+        "text": "step4.md"
+      },
+      {
+        "text": "step5.md"
+      },
+      {
+        "text": "step6.md"
+      },
+      {
+        "text": "step7.md"
+      },
+      {
+        "text": "step8.md"
+      }
+    ],
+    "finish": {
+      "text": "finish.md"
+    }
+  }
+}

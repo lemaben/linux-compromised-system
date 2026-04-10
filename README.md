@@ -1,22 +1,11 @@
-# Linux Compromised System - Killercoda Pack
+# Killercoda Pack
 
-This scenario drops learners into a noisy Linux host where they must investigate a compromise, collect flags, and remediate the system.
+This pack uses the standard Killercoda scenario layout with `index.json` inside the scenario folder and a top-level `structure.json` for course grouping.
 
-## Files
-- `scenario.yaml` - Killercoda scenario definition
-- `background.sh` - full environment preparation
-- `foreground.sh` - learner entrypoint
-- `steps/step*.md` - learner-facing instructions
-
-## Core flags
-- `flag{hacker}`
-- `flag{.miner.sh}`
-- `flag{.bashrc}`
-- `flag{finance.txt}`
-- `flag{crypto_miner}`
-- `flag{system_secured}`
-
-## Notes
-- Main track is minimal and TryHackMe-style
-- Noise includes large-ish logs, harmless backups, temp files, and red herrings
-- Advanced prompts are in later steps
+## Expected flags
+- Flag 1: `flag{hacker}`
+- Flag 2: `flag{.miner.sh}`
+- Flag 3: `flag{.bashrc}`
+- Flag 4: `flag{finance.txt}`
+- Flag 5: `flag{crypto_miner}`
+- Flag 6: `flag{system_secured}`

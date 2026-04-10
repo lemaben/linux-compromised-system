@@ -1,0 +1,9 @@
+{
+  "title": "Linux Security Training",
+  "description": "Compromised Linux system investigation and remediation lab",
+  "items": [
+    {
+      "path": "linux-compromised-system"
+    }
+  ]
+}
